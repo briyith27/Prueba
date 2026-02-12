@@ -8,5 +8,6 @@ public class Prueba {
         System.out.println("Hola Jhonatan");
         System.out.println("Hola mundo");
         System.out.println("Y tu como estas Jhonatan?");
+        System.out.println("Prueba");
     }
 }
